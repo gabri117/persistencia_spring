@@ -1,5 +1,4 @@
-package com.coderland.core.mth.common.entity;
-
+package com.bdcafe.bdcafe.entities;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
